@@ -1,7 +1,9 @@
 # Hi 👋 My name is Craig Twigg
 ## Web Developer and Designer 
 
-I’ve been building and tinkering with the web in one fashion or another since the early 00s! From helping out friends using everything from Geocities to Squarespace, Dreamweaver and Wordpress right through to present day building beautiful and effective super-quick JAMStack websites and platforms for brands, business and creators on a freelance basis.  * 🌍  I'm based in Widnes, UK * ✉️  You can contact me at [dev.craigjtwigg@gmail.com](mailto:dev.craigjtwigg@gmail.com) * 🧠  I'm learning Strapi and Next JS * ⚡  I’m a dog dad, soon to be human dad and I co-run an independent record label and event promotion
+I’ve been building and tinkering with the web in one fashion or another since the early 00s! 
+
+From helping out friends using everything from Geocities to Squarespace, Dreamweaver and Wordpress right through to present day building beautiful and effective super-quick JAMStack websites and platforms for brands, business and creators on a freelance basis.  * 🌍  I'm based in Widnes, UK * ✉️  You can contact me at [dev.craigjtwigg@gmail.com](mailto:dev.craigjtwigg@gmail.com) * 🧠  I'm learning Strapi and Next JS * ⚡  I’m a dog dad, soon to be human dad and I co-run an independent record label and event promotion
 
 ### Skills
 
