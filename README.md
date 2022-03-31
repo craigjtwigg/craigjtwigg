@@ -1,5 +1,5 @@
-#Hi 👋 My name is Craig Twigg
-##Web Developer and Designer 
+# Hi 👋 My name is Craig Twigg
+## Web Developer and Designer 
 
 I’ve been building and tinkering with the web in one fashion or another since the early 00s! 
 
